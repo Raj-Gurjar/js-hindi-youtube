@@ -33,3 +33,5 @@ console.log(url.replace('%20', '-'))
 console.log(url.includes('sundar'))
 
 console.log(gameName.split('-'));
+
+https://www.w3schools.com/js/js_string_methods.asp : for more info of string methods
