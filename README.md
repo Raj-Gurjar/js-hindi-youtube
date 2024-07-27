@@ -1,6 +1,9 @@
 # js-hindi-youtube
-A code repo for javascript series at Chai aur code youtube channel
+A code repo for the javascript series at Chai aur code YouTube channel
 
+
+##JS execution context: https://www.javascripttutorial.net/javascript-execution-context/
+## JS call Stack working: https://www.javascripttutorial.net/javascript-call-stack/  
 ---
 
 ## Projects for practice
